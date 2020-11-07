@@ -8,4 +8,4 @@ GitHub [repository](https://github.com/riwhale/riwhale.github.io/) for hosting f
 <br/>*Powered by GitHub Pages.*
 
 # Table of Contents
-Click [here].
+Click [here](https://riwhale.github.io/contents.html).
