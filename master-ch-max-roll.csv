@@ -1,0 +1,46 @@
+Date/Time UTC,Name,MMSI,Max Speed kn,Mean Speed kn,LOA ft,Beam ft,Vessel Class,AIS Type,Course,Heading,Course Behavior,Yaw deg,Effective Beam ft,WDIR degT,WSPD mph,GST mph,Location,Latitude,Longitude,Transit,Condition,% Channel Occupied
+2021-01-05 07:03:24,MSC JUDITH,356093000,16.8,16.0,1066.0,141.0,Post-Panamax,71,299,298,Inbound,1,160,282,12.08,221.46,Offshore,31.97593,-80.74368,One-way Transit,Non-adverse Condition,26.67
+2021-01-05 03:19:37,ONE HOUSTON,373485000,16.0,15.2,1099.0,151.0,Post-Panamax,93,322,318,Inbound,4,227,260,6.71,8.95,Nearshore,32.02675,-80.81356,One-way Transit,Non-adverse Condition,37.83
+2021-01-05 13:00:31,ATHENIAN,636018028,15.0,14.6,1145.0,148.0,Post-Panamax,71,315,311,Inbound,4,228,280,13.42,20.13,Nearshore,32.02954,-80.81667,One-way Transit,Non-adverse Condition,38.0
+2021-01-05 13:12:47,MAERSK STOCKHOLM,477770200,14.8,13.5,1096.0,141.0,Post-Panamax,71,142,142,Outbound,0,141,280,13.42,20.13,Nearshore,32.0152,-80.80335,One-way Transit,Non-adverse Condition,23.5
+2021-01-05 05:29:54,STAR LYSEFJORD,258005000,14.8,13.8,669.0,105.0,Panamax,70,321,314,Inbound,7,186,300,11.18,13.42,Nearshore,32.02889,-80.816,One-way Transit,Non-adverse Condition,31.0
+2021-01-05 05:05:47,AMERICA,209550000,14.5,13.6,1096.0,141.0,Post-Panamax,71,143,144,Outbound,1,160,300,11.18,13.42,Nearshore,32.01411,-80.8023,Two-way Transit,Adverse Condition,53.33
+2021-01-05 03:18:38,CMA CGM TOSCA,228335900,14.4,13.6,1096.0,144.0,Post-Panamax,70,299,299,Inbound,0,144,293,9.4,221.46,Offshore,31.98883,-80.77216,One-way Transit,Non-adverse Condition,24.0
+2021-01-05 01:05:47,TYSLA,249909000,14.3,13.3,869.0,105.0,Panamax,74,142,141,Outbound,1,120,260,8.95,13.42,Nearshore,32.0154,-80.80373,One-way Transit,Non-adverse Condition,20.0
+2021-01-05 00:19:58,ST LOUIS EXPRESS,367136680,13.2,12.1,797.0,105.0,Panamax,79,144,146,Outbound,2,133,250,6.71,11.18,Nearshore,32.01675,-80.80486,One-way Transit,Non-adverse Condition,22.17
+2021-01-04 04:08:54,MAERSK STOCKHOLM,477770200,17.1,16.4,1096.0,141.0,Post-Panamax,71,318,311,Inbound,7,274,310,11.18,17.9,Nearshore,32.02893,-80.81629,One-way Transit,Non-adverse Condition,45.67
+2021-01-04 20:55:48,EVER LASTING,235093618,16.7,14.8,1099.0,151.0,Post-Panamax,74,129,132,Outbound,3,208,220,6.71,8.95,Nearshore,32.03121,-80.81928,One-way Transit,Non-adverse Condition,34.67
+2021-01-04 13:25:24,CMA CGM T.JEFFERSON,215126000,16.4,14.3,1200.0,157.0,Post-Panamax,71,118,118,Outbound,0,157,307,14.54,221.46,Offshore,31.97614,-80.74362,One-way Transit,Non-adverse Condition,26.17
+2021-01-04 14:01:56,HYUNDAI  SMART,241312000,15.7,15.1,1200.0,157.0,Post-Panamax,70,314,316,Inbound,2,199,340,8.95,13.42,Nearshore,32.02916,-80.81679,One-way Transit,Non-adverse Condition,33.17
+2021-01-04 22:15:47,BOMAR CALAIS,255805683,15.5,14.7,689.0,98.0,Panamax,79,299,299,Inbound,0,98,192,2.01,221.46,Offshore,31.9909,-80.77672,One-way Transit,Non-adverse Condition,16.33
+2021-01-04 14:07:51,MSC LETIZIA,352684000,15.4,15.0,984.0,157.0,Post-Panamax,74,322,321,Inbound,1,174,340,8.95,13.42,Nearshore,32.02444,-80.81176,One-way Transit,Non-adverse Condition,29.0
+2021-01-04 02:43:54,AMERICA,209550000,15.3,12.6,1096.0,141.0,Post-Panamax,71,321,320,Inbound,1,160,310,13.42,17.9,Nearshore,32.02748,-80.81456,One-way Transit,Non-adverse Condition,26.67
+2021-01-04 01:16:55,ST LOUIS EXPRESS,367136680,14.8,14.3,797.0,105.0,Panamax,79,322,321,Inbound,1,119,290,13.42,20.13,Nearshore,32.02737,-80.81456,One-way Transit,Non-adverse Condition,19.83
+2021-01-04 03:17:37,MADRID BRIDGE,431981000,14.3,13.1,1200.0,167.0,Post-Panamax,74,119,119,Outbound,0,167,300,19.46,221.46,Offshore,31.98422,-80.76223,One-way Transit,Non-adverse Condition,27.83
+2021-01-04 01:28:49,SANTA LORETTA,218643000,14.0,13.9,1105.0,151.0,Post-Panamax,71,142,142,Outbound,0,151,290,13.42,20.13,Nearshore,32.01789,-80.80596,One-way Transit,Non-adverse Condition,25.17
+2021-01-03 13:26:46,EVER LASTING,235093618,15.5,14.7,1099.0,151.0,Post-Panamax,74,322,320,Inbound,2,189,260,8.95,13.42,Nearshore,32.02681,-80.81395,One-way Transit,Non-adverse Condition,31.5
+2021-01-03 14:31:32,YM MODESTY,636016242,15.1,14.9,958.0,131.0,Panamax,70,143,141,Outbound,2,164,250,8.95,13.42,Nearshore,32.01473,-80.80333,One-way Transit,Non-adverse Condition,27.33
+2021-01-03 15:09:49,MAERSK KLEVEN,636018912,14.6,14.3,1043.0,138.0,Post-Panamax,71,142,141,Outbound,1,156,260,8.95,13.42,Nearshore,31.99934,-80.78913,One-way Transit,Non-adverse Condition,26.0
+2021-01-03 13:34:55,ONE MAGNIFICENCE,538003648,13.8,12.8,991.0,141.0,Post-Panamax,70,298,298,Inbound,0,141,253,8.95,221.46,Offshore,31.97799,-80.74792,One-way Transit,Non-adverse Condition,23.5
+2021-01-02 01:27:35,MADRID BRIDGE,431981000,16.6,15.4,1200.0,167.0,Post-Panamax,74,318,315,Inbound,3,230,180,13.42,17.9,Nearshore,32.02915,-80.81628,One-way Transit,Non-adverse Condition,38.33
+2021-01-02 02:01:40,MAERSK KLEVEN,636018912,14.9,14.7,1043.0,138.0,Post-Panamax,71,322,321,Inbound,1,156,200,13.42,20.13,Nearshore,32.01949,-80.80702,One-way Transit,Non-adverse Condition,26.0
+2021-01-01 22:11:56,EVER LASTING,235093618,16.1,15.5,1099.0,151.0,Post-Panamax,74,297,298,Inbound,1,170,171,13.87,221.46,Offshore,31.97669,-80.74575,One-way Transit,Non-adverse Condition,28.33
+2021-01-01 01:59:04,MSC SILVANA,371908000,15.0,13.2,1089.0,141.0,Post-Panamax,70,142,142,Outbound,0,141,50,4.47,8.95,Nearshore,32.01236,-80.80085,One-way Transit,Non-adverse Condition,23.5
+2021-01-01 20:18:53,CMA CGM T.JEFFERSON,215126000,14.6,13.4,1200.0,157.0,Post-Panamax,71,298,298,Inbound,0,157,168,13.65,221.46,Offshore,31.97757,-80.74745,One-way Transit,Non-adverse Condition,26.17
+2021-01-01 01:34:35,CMA CGM T.ROOSEVELT,215251000,13.7,13.2,1200.0,157.0,Post-Panamax,71,117,119,Outbound,2,199,149,9.4,221.46,Offshore,31.9856,-80.76434,One-way Transit,Non-adverse Condition,33.17
+2021-01-01 01:33:56,MSC CELINE,373582000,13.1,12.0,689.0,105.0,Panamax,1,145,141,Outbound,4,153,90,4.47,8.95,Nearshore,31.99825,-80.78809,One-way Transit,Non-adverse Condition,25.5
+2020-12-31 23:29:47,YM MODESTY,636016242,16.5,15.8,958.0,131.0,Panamax,70,314,306,Inbound,8,263,150,2.24,6.71,Nearshore,32.03014,-80.81738,One-way Transit,Non-adverse Condition,43.83
+2020-12-31 20:48:34,TALISMAN,257613000,16.3,15.3,800.0,105.0,Panamax,79,128,130,Outbound,2,133,150,4.47,8.95,Nearshore,32.03071,-80.81822,One-way Transit,Non-adverse Condition,22.17
+2020-12-31 00:49:37,TARAGO,257672000,15.8,15.5,804.0,105.0,Panamax,70,141,140,Outbound,1,119,120,4.47,8.95,Nearshore,32.01273,-80.80119,One-way Transit,Non-adverse Condition,19.83
+2020-12-31 05:23:54,MSC CELINE,373582000,15.7,14.7,689.0,105.0,Panamax,1,299,300,Inbound,1,117,137,8.95,221.46,Offshore,31.97698,-80.74542,One-way Transit,Non-adverse Condition,19.5
+2020-12-31 18:49:34,MAERSK SKARSTIND,636017103,15.4,15.1,984.0,157.0,Post-Panamax,71,128,129,Outbound,1,174,130,4.47,8.95,Nearshore,32.03086,-80.81906,One-way Transit,Non-adverse Condition,29.0
+2020-12-31 02:07:26,HUMEN BRIDGE,372665000,15.3,15.0,1102.0,151.0,Post-Panamax,71,142,143,Outbound,1,170,140,4.47,6.71,Nearshore,32.015,-80.80346,One-way Transit,Non-adverse Condition,28.33
+2020-12-31 12:10:44,SANTA LORETTA,218643000,14.9,14.4,1105.0,151.0,Post-Panamax,71,323,320,Inbound,3,209,220,4.47,11.18,Nearshore,32.02638,-80.81348,One-way Transit,Non-adverse Condition,34.83
+2020-12-31 13:23:54,OOCL CHONGQING,477832400,14.1,13.7,1200.0,157.0,Post-Panamax,70,143,143,Outbound,0,157,30,2.24,6.71,Nearshore,32.01277,-80.80081,One-way Transit,Non-adverse Condition,26.17
+2020-12-31 23:48:56,TYSLA,249909000,14.1,13.0,869.0,105.0,Panamax,74,318,316,Inbound,2,135,150,2.24,6.71,Nearshore,32.02869,-80.81571,One-way Transit,Non-adverse Condition,22.5
+2020-12-30 16:22:56,BERLIN BRIDGE,477213800,17.3,17.0,879.0,115.0,Panamax,73,141,139,Outbound,2,146,50,8.95,15.66,Nearshore,32.00675,-80.79611,One-way Transit,Non-adverse Condition,24.33
+2020-12-30 15:22:39,MAERSK SERANGOON,565449000,16.9,15.1,1043.0,131.0,Post-Panamax,74,139,140,Outbound,1,149,60,15.66,24.61,Nearshore,32.02858,-80.81578,One-way Transit,Non-adverse Condition,24.83
+2020-12-30 03:06:04,EXPRESS ROME,636015019,15.4,15.4,1145.0,151.0,Post-Panamax,71,126,130,Outbound,4,231,90,17.9,22.37,Nearshore,32.03122,-80.819,One-way Transit,Non-adverse Condition,38.5
+2020-12-30 14:08:38,NYK ROMULUS,563079000,14.8,14.4,964.0,105.0,Panamax,71,297,299,Inbound,2,139,29,14.32,221.46,Offshore,31.9906,-80.77607,One-way Transit,Non-adverse Condition,23.17
+2020-12-30 00:54:00,MAERSK SKARSTIND,636017103,14.5,14.0,984.0,157.0,Post-Panamax,71,299,299,Inbound,0,157,38,9.4,13.42,Offshore,31.97606,-80.74396,One-way Transit,Non-adverse Condition,26.17
+2020-12-30 06:34:35,CMA CGM T.ROOSEVELT,215251000,13.8,12.9,1200.0,157.0,Post-Panamax,71,298,300,Inbound,2,199,37,10.96,221.46,Offshore,31.99188,-80.7785,One-way Transit,Non-adverse Condition,33.17
