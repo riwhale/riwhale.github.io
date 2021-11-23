@@ -1,0 +1,7 @@
+,Class,Proportion<br>of Transits,Compliance<br>Rate,Mean<br>VSPD,Nearshore<br>Median VSPD,Offshore<br>Median VSPD,Inbound<br>Median VSPD,Outbound<br>Median VSPD,VSPD-WSPD<br>Correlation
+Charleston,Panamax,40.91%,14.66%,13.2 kn,13.6 kn,14.2 kn,13.2 kn,14.2 kn,0.23
+Charleston,Post-Panamax,59.09%,4.85%,13.8 kn,13.8 kn,14.4 kn,13.5 kn,14.6 kn,0.22
+Charleston,Combined,100%,8.87%,13.55 kn,13.7 kn,14.4 kn,13.4 kn,14.4 kn,0.23
+Savannah,Panamax,41.18%,7.07%,13.54 kn,14.2 kn,13.2 kn,14.3 kn,13.3 kn,0.13
+Savannah,Post-Panamax,58.82%,8.71%,13.62 kn,14.1 kn,13.8 kn,14.1 kn,14.0 kn,0.22
+Savannah,Combined,100%,8.03%,13.59 kn,14.15 kn,13.7 kn,14.2 kn,13.7 kn,0.19
